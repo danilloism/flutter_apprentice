@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    use_colored_box: true
+    use_decorated_box: true
+    always_use_package_imports: true
+    use_super_parameters: true
+    avoid_void_async: true
